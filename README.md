@@ -50,9 +50,11 @@ npm install
 ```bash
 appium --address 0.0.0.0 --port 4723
 ```
-Please check or re-setup the `config/wdio.conf.ts`, make sure align with your local setup. You can change hostname, port, and capabilities based on your local setup.
+Please check or reset the `config/wdio.conf.ts` file to ensure it aligns with your local setup. You can change hostname, port, and capabilities based on your local setup.
 
 ### 3. Run Test
+
+Before you start the test, make sure you already install the apps manually on your device
 
 ```bash
 npm run wdio
