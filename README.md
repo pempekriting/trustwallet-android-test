@@ -108,7 +108,7 @@ Built and maintained by **Kgs. Azzam Nizar**
 
 ## Report Evidence
 
-[HTML Report]()
+[HTML Report](https://pempekriting.github.io/trustwallet-android-test/reports/html/index.html)
 
 ## Video Evidence
 
